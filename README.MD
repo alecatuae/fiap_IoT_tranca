@@ -4,7 +4,9 @@
 ### - Professor: Matheus
 
 
-## Necessáro para subir o projeto:
+
+---
+## Necessário para subir o projeto:
 ---
 ![Imagem](https://github.com/alecatuae/fiap_IoT_tranca/blob/master/img/projimg1.PNG)
 
